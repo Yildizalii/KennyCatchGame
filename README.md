@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-<img src="/update.gif"  width="200"/>
-<img src="/delete.gif" width="200"/>
+<img src="/Kenny.png"  width="200"/>
+<img src="/KennyAlert.png" width="200"/>
 <img src="/create.gif" width="200"/>
 </p>
 
