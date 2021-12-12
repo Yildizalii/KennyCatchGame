@@ -7,7 +7,6 @@
 <p align="center">
 <img src="/Kenny.png"  width="200"/>
 <img src="/KennyAlert.png" width="200"/>
-<img src="/create.gif" width="200"/>
 </p>
 
 
